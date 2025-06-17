@@ -22,11 +22,20 @@ Includes authentication, theme toggling, prompt templates, PDF export, message e
 
 ### 💬 Chat Interface
 
-![Chat Screenshot](./screenshots/chat-ui.png)
+![Chat Screenshot](https://github.com/user-attachments/assets/928810a5-6350-40f3-b2cb-aedab485d85d)
+![Chat Screenshot](https://github.com/user-attachments/assets/e3d3d5f1-11af-4cc8-b892-9b60d5df002b)
+![Chat Screenshot](https://github.com/user-attachments/assets/cbbe35b5-1c17-48f2-a4ca-c18c4d68dadd)
+![Chat Screenshot](https://github.com/user-attachments/assets/3123b2e4-3185-4d07-a6fb-b5bb1f1b7f81)
 
 ### 🔒 Auth Pages
 
-![Login Screenshot](./screenshots/login.png)
+### Login Page
+![Login Screenshot](https://github.com/user-attachments/assets/3368a122-1fc9-4a5c-961a-34c48d724043)
+![Login Screenshot](https://github.com/user-attachments/assets/232606c9-c8e4-4d93-ba75-f84db46e4e22)
+
+### Register Page
+![Register Screenshot](https://github.com/user-attachments/assets/6df2f93c-4f3c-4a0a-a1ab-83d904fa5f22)
+![Register Screenshot](https://github.com/user-attachments/assets/0b362317-4917-4258-8c3b-5384bb556beb)
 
 ---
 

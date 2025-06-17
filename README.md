@@ -30,10 +30,12 @@ Includes authentication, theme toggling, prompt templates, PDF export, message e
 ### 🔒 Auth Pages
 
 ### Login Page
+
 ![Login Screenshot](https://github.com/user-attachments/assets/3368a122-1fc9-4a5c-961a-34c48d724043)
 ![Login Screenshot](https://github.com/user-attachments/assets/232606c9-c8e4-4d93-ba75-f84db46e4e22)
 
 ### Register Page
+
 ![Register Screenshot](https://github.com/user-attachments/assets/6df2f93c-4f3c-4a0a-a1ab-83d904fa5f22)
 ![Register Screenshot](https://github.com/user-attachments/assets/0b362317-4917-4258-8c3b-5384bb556beb)
 
